@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_accent">#425066</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
+
+    <color name="colorPrimary">#1E8300</color>
+    <color name="colorPrimaryDark">#1E8300</color>
+    <color name="colorAccent">#1E8300</color>
+    <color name="colorBG">#FAFAFA</color>
+
+    <color name="white">#ffffff</color>
+    <color name="whiteLight">#F3F3F3</color>
+    <color name="whiteline">#ECECEC</color>
+    <color name="whitesoft">#B5B5B5</color>
+    <color name="BaseBlackText">#2A2A2A</color>
+    <color name="kuning">#FFBA00</color>
+    <color name="yellow">#F8D281</color>
+    <color name="hijau">#1E8300</color>
+    <color name="abuabu">#66656A</color>
+    <color name="abuabu2">#5A5656</color>
+
+    <color name="icon">#829197</color>
+
+    <color name="colorTransparant">#00BEBEBE</color>
+
+    <color name="darkGrey">#1B1F2F</color>
+    <color name="darkGreyLight">#353C57</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimaryDark2">#ffffff</color>
+
+    <!--Color New-->
+    <color name="yellow_slow">#F7C22C</color>
+    <color name="brown">#3D2312</color>
+</resources>
